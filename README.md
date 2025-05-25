@@ -1,4 +1,4 @@
-# No Cameras pls
+# `rm -rf .`
 
 ### Tech I like to work with:
 - 🌐 Distributed Systems
