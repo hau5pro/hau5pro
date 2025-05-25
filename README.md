@@ -1,17 +1,17 @@
-## 🚫 No Cameras 📸
-pls
+# No Cameras pls
 
-<!--
-**hau5pro/hau5pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech I like to work with:
+- 🌐 Distributed Systems
+- 💻 User Experience
+- 🎮 Game Development
+- 📱  Mobile Solutions 
 
-Here are some ideas to get you started:
+### Offline:
+- 🏋️‍♂️ Exercise junkie
+- ☕ Coffee enthusiast
+- 🧠 Bio-hacker
+- 🧘‍♂️ Mindfulness believer
+- 🌌 Fringe theory enjoyer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact:  
+If you need me, you'll know where to find me.
