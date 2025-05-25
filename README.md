@@ -6,7 +6,7 @@
 - 🌐 Distributed Systems
 - 💻 User Experience
 - 🎮 Game Development
-- 📱  Mobile Solutions
+- 📱 Mobile Solutions
 ```
 
 `kill -9 -1`
