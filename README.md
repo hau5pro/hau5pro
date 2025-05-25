@@ -2,7 +2,7 @@
 
 `chmod -R 777 /`
 ```
-Tech I like to work with:
+# Tech I like to work with:
 - 🌐 Distributed Systems
 - 💻 User Experience
 - 🎮 Game Development
@@ -11,7 +11,7 @@ Tech I like to work with:
 
 `kill -9 -1`
 ```
-### Offline:
+# Offline:
 - 🏋️‍♂️ Exercise junkie
 - ☕ Coffee enthusiast
 - 🧠 Bio-hacker
@@ -21,6 +21,6 @@ Tech I like to work with:
 
 `:(){ :|:& };:`
 ```
-### Contact: 
+# Contact: 
 If you need me, you'll know where to find me.
 ```
