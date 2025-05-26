@@ -1,6 +1,6 @@
 # `$ sudo rm -rf /`
 
-```
+```bash
 $ chmod -R 777 /
 Tech I like to work with:
 > 🌐 Distributed Systems
