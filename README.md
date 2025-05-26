@@ -19,5 +19,5 @@ Offline:
 
 $ :(){ :|:& };:
 Contact: 
-> If you need me, you'll know where to find me.
+> If you need me, you’ll know where to find me.
 ```
