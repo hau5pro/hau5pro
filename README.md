@@ -2,7 +2,7 @@
 
 ```bash
 $ chmod -R 777 /
-Tech I like to work with:
+I like to work with:
 > 🌐 Distributed Systems
 > 💻 User Experience
 > 🎮 Game Development
